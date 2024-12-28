@@ -1,4 +1,4 @@
-# By tuandat
+# Problem A solution by tuandat
 # This python code just show how i handle the problem, not use to engage a competition
 # Bc this little shit is time limit exceeded.
 n = list(map(int, input().split()))
